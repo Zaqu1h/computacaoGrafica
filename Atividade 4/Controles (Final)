@@ -1,0 +1,83 @@
+==========================================
+CONTROLES DO GROOT - GUIA DE TECLAS
+==========================================
+
+MOVIMENTOS MANUAIS (TECLADO NORMAL):
+
+BRAÇO DIREITO:
+  Q - Ombro direito (+)
+  W - Ombro direito (-)
+  E - Antebraço direito (+)
+  R - Antebraço direito (-)
+  T - Mão direita (+)
+  Y - Mão direita (-)
+
+BRAÇO ESQUERDO:
+  U - Ombro esquerdo (+)
+  I - Ombro esquerdo (-)
+  O - Antebraço esquerdo (+)
+  P - Antebraço esquerdo (-)
+  A - Mão esquerda (+)
+  S - Mão esquerda (-)
+
+PERNA DIREITA:
+  D - Coxa direita (+)
+  F - Coxa direita (-)
+  G - Panturrilha direita (+)
+  H - Panturrilha direita (-)
+  J - Pata direita (+)
+  K - Pata direita (-)
+
+PERNA ESQUERDA:
+  L - Coxa esquerda (+)
+  Z - Coxa esquerda (-)
+  X - Panturrilha esquerda (+)
+  C - Panturrilha esquerda (-)
+  V - Pata esquerda (+)
+  B - Pata esquerda (-)
+
+CENTRO DO CORPO:
+  N - Quadril (+)
+  M - Quadril (-)
+  1 - Tronco (+)
+  2 - Tronco (-)
+  3 - Cabeça (+)
+  4 - Cabeça (-)
+
+RESET:
+  0 - Resetar todas as rotações
+
+SAIR:
+  ESC - Sair do programa
+
+==========================================
+TECLAS ESPECIAIS (FUNÇÕES E SETAS):
+
+ANIMAÇÕES AUTOMÁTICAS:
+  F1  - Aceno com braço esquerdo
+  F2  - Aceno com braço direito
+  F3  - Chute com perna esquerda
+  F4  - Chute com perna direita
+
+MOVIMENTO NO CENÁRIO:
+  SETA ESQUERDA  - Mover para esquerda
+  SETA DIREITA   - Mover para direita
+  SETA CIMA      - Afastar câmera
+  SETA BAIXO     - Aproximar câmera
+
+AÇÕES ESPECIAIS:
+  F9   - Andar para esquerda
+  F10  - Andar para direita
+  F11  - Ativar animação 'idle'
+  F12  - Resetar posição e escala
+
+==========================================
+LEGENDA:
+  (+) = Aumentar ângulo/mover positivamente
+  (-) = Diminuir ângulo/mover negativamente
+
+NOTAS:
+- As animações automáticas (F1-F4) resetam as posições relevantes
+- Tecla '0' reseta todos os ângulos das articulações
+- F12 reseta posição e escala do personagem
+- ESC sai do programa a qualquer momento
